@@ -12,7 +12,6 @@
 
 *Predict whether a health product is beneficial and get personalised healthier alternatives — powered by Machine Learning.*
 
-**Developed by Mannat Mishra**
 
 </div>
 
@@ -133,9 +132,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📜 License
-
-This project is open source and available for educational and personal use.
 
 ---
 
